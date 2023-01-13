@@ -1,0 +1,17 @@
+MODULE-2: Introduction to AI/ML/DL
+
+
+1. What is Machine Learning? Explain the applications of Machine Learning. Also, discuss briefly, why do we need
+Machine Learning?
+
+==> it is branch of artificial itelligence, concerned with design & devlopment of algorithms that allow mimic behaviour
+	of human based available data.
+
+2. Discuss briefly giving example of application about different types of learning in Machine Learning.
+
+==> Supervised		unsupervised		reinforcement
+
+3. Discuss briefly the difference machine learning and deep learning. 
+
+==> ______________
+
